@@ -15,4 +15,8 @@ public class Calculator {
     public int substract() {
         return this.a - this.b;
     }
+
+    public int multiply() {
+        return this.a * this.b;
+    }
 }
