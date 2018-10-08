@@ -19,4 +19,8 @@ public class Calculator {
     public int multiply() {
         return this.a * this.b;
     }
+
+    public int divide() {
+        return this.a / this.b;
+    }
 }
