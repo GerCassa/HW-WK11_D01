@@ -12,4 +12,7 @@ public class Calculator {
     }
 
 
+    public int substract() {
+        return this.a - this.b;
+    }
 }
